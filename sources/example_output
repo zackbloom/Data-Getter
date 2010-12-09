@@ -1,0 +1,41 @@
+Got records
+Original Structure:
+
+kind: <<<Listing>>>
+data:   
+    modhash: <<<>>>
+    children:
+        0:
+            kind: <<<t3>>>
+            data:   
+                domain: <<<img.thedailywtf.com>>>
+                media_embed:
+                subreddit: <<<programming>>>
+                selftext_html: <<<None>>>
+                selftext: <<<>>>
+                likes: <<<None>>>
+                saved: <<<False>>>
+                id: <<<dgcu9>>>
+                clicked: <<<False>>>
+                author: <<<midir>>>
+                media: <<<None>>>
+                score: <<<1059>>>
+                over_18: <<<False>>>
+                hidden: <<<False>>>
+                thumbnail: <<<>>>
+                subreddit_id: <<<t5_2fwo>>>
+                downs: <<<605>>>
+                is_self: <<<False>>>
+                permalink: <<</r/programming/comments/dgcu9/please_dont_use_floatingpoint_types_for_currency/>>>
+                name: <<<t3_dgcu9>>>
+                created: <<<1285016549.0>>>
+                url: <<<http://img.thedailywtf.com/images/200902/errord/DSC00669.JPG>>>
+                title: <<<Please don't use floating-point types for currency values>>>
+                created_utc: <<<1284991349.0>>>
+                num_comments: <<<567>>>
+                ups: <<<1664>>>
+        ... (24 more)
+    after: <<<t3_dgjj8>>>
+    before: <<<None>>>
+Normalized 25 records
+Storing
